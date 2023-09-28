@@ -1,4 +1,1 @@
-*.cvs
-*.csv !final.csv
-/results/*
-!/results/data
+results/
